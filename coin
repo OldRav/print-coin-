@@ -1,0 +1,4 @@
+# coin_info = session.get_coin_info(
+#     coin="SUI",
+# )
+# print(coin_info)
